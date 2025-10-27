@@ -281,7 +281,7 @@ st.caption("© 2025 – BABS Intake‑assistent (oproepversie). Warm, oprecht, p
 requirements.txt
 
 
-streamlit==1.38.0
+streamlit==1.50.0
 
 
 pandas==2.2.2
