@@ -1,4 +1,5 @@
 streamlit==1.50.0
 pandas==2.2.2
 pillow==10.4.0
-pytesseract==0.3.10
+# pytesseract is optioneel; laat desnoods weg op Cloud:
+# pytesseract==0.3.10
